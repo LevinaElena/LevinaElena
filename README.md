@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning React
 - 📫 How to reach me: 
-              e-mail e.a.kolupanovich@gmail.com
+              e-mail 	ea.levina85@gmail.com
               tel: +972 55 926 84 83
 
 <!---
